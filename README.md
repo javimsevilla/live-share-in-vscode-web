@@ -1,4 +1,6 @@
-# LiveShareInVscodeWeb
+# Live Share in Visual Studio Code for the Web (experimental)
+
+Experimental repository for testing the [Live Share Extension](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) in [Visual Studio Code](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev). More info here: [Live Share in Visual Studio Code for the Web](https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/browser-join).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
 
